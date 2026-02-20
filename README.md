@@ -1,6 +1,6 @@
 # Touchless HCI for Media Control Using Hand Gestures on NVIDIA Jetson Nano
 
-## 📌 Project Overview
+##  Project Overview
 
 This project presents a **touchless Human–Computer Interaction (HCI) system** that enables real-time media control using hand gesture recognition on an ARM-based embedded platform.
 
@@ -8,7 +8,7 @@ The system is implemented on the NVIDIA Jetson Nano (ARM Cortex-A57 processor) a
 
 ---
 
-## 🎯 Objective
+##  Objective
 
 To develop a real-time, low-power, gesture-based media control system that:
 
@@ -19,7 +19,7 @@ To develop a real-time, low-power, gesture-based media control system that:
 
 ---
 
-## 🧠 System Architecture
+##  System Architecture
 
 The system consists of the following modules:
 
@@ -45,7 +45,7 @@ All processing is performed locally on the Jetson Nano using edge computing prin
 
 ---
 
-## 🛠 Hardware Used
+##  Hardware Used
 
 - NVIDIA Jetson Nano Developer Kit
 - ARM Cortex-A57 Quad-Core Processor
@@ -55,7 +55,7 @@ All processing is performed locally on the Jetson Nano using edge computing prin
 
 ---
 
-## 💻 Software Stack
+##  Software Stack
 
 - Ubuntu (JetPack SDK)
 - Python
@@ -66,7 +66,7 @@ All processing is performed locally on the Jetson Nano using edge computing prin
 
 ---
 
-## ⚙️ Working Methodology
+##  Working Methodology
 
 1. Camera Initialization using OpenCV
 2. Real-time frame capture
@@ -78,7 +78,7 @@ All processing is performed locally on the Jetson Nano using edge computing prin
 
 ---
 
-## 🚀 Optimization Techniques
+##  Optimization Techniques
 
 - MAXN Performance Mode configuration
 - Jetson clock locking
@@ -89,7 +89,7 @@ All processing is performed locally on the Jetson Nano using edge computing prin
 
 ---
 
-## 📊 Results and Performance
+##  Results and Performance
 
 - Achieved real-time gesture recognition
 - Maintained 13–18 FPS
@@ -99,7 +99,7 @@ All processing is performed locally on the Jetson Nano using edge computing prin
 
 ---
 
-## ⚖️ Design Trade-Offs
+##  Design Trade-Offs
 
 - Resolution vs Processing Speed
 - Performance vs Power Consumption
@@ -109,7 +109,7 @@ All processing is performed locally on the Jetson Nano using edge computing prin
 
 ---
 
-## 🌍 Applications
+##  Applications
 
 - Smart Homes
 - Public Kiosks
@@ -119,7 +119,7 @@ All processing is performed locally on the Jetson Nano using edge computing prin
 
 ---
 
-## 🔐 Key Contributions
+##  Key Contributions
 
 - Real-time gesture recognition on ARM platform
 - Edge AI deployment without cloud dependency
@@ -142,7 +142,7 @@ All processing is performed locally on the Jetson Nano using edge computing prin
 
 ---
 
-## 🏁 Conclusion
+##  Conclusion
 
 This project demonstrates the feasibility of implementing real-time AI-powered touchless interaction systems on ARM-based embedded platforms. It highlights the efficiency, scalability, and power advantages of ARM architecture in edge AI applications.
 
