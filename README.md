@@ -148,7 +148,7 @@ This project demonstrates the feasibility of implementing real-time AI-powered t
 
 ---
 
-## 👩‍💻 Authors
+##  Authors
 
 Rajakavi S,
 Midhunan D J,
